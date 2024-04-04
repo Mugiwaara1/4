@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|c:\\users\\dfsn1\\source\\repos\\consoleapp1\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|solutionrelative:accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|c:\\users\\dfsn1\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|c:\\users\\dfsn1\\source\\repos\\consoleapp1\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|solutionrelative:iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|c:\\users\\dfsn1\\source\\repos\\consoleapp1\\bankacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|solutionrelative:bankacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|c:\\users\\dfsn1\\source\\repos\\consoleapp1\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0E9E8-C44E-4059-9144-A5D289CFFA47}|ConsoleApp1.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManager.cs",
+              "ToolTip": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\AccountManager.cs",
+              "RelativeToolTip": "AccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:03:52.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\IAccountManager.cs",
+              "RelativeDocumentMoniker": "IAccountManager.cs",
+              "ToolTip": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\IAccountManager.cs",
+              "RelativeToolTip": "IAccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:03:07.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAcount.cs",
+              "DocumentMoniker": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\BankAcount.cs",
+              "RelativeDocumentMoniker": "BankAcount.cs",
+              "ToolTip": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\BankAcount.cs",
+              "RelativeToolTip": "BankAcount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:00:56.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:58:50.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DFSn1\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:57:42.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
